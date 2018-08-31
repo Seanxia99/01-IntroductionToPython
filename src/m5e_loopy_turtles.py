@@ -24,7 +24,7 @@ Concepts include:
        then 2 the next time the body runs,
          etc
        then 40 the last time the body runs.
-
+d
  * ASSIGNMENT and NAMES
   -- ASSIGNING a VALUE to a NAME (aka VARIABLE), as in these examples:
         jack = 45
